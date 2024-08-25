@@ -1,4 +1,5 @@
 # Java Web Development Documentation
+![image](https://github.com/user-attachments/assets/c3b4e78f-b540-4fd9-8685-7ed50b8af44e)
 
 ## Overview
 
