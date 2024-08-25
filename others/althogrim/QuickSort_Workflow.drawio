@@ -1,0 +1,95 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="-G9Tq5yYWwjfvB-UJN7-">
+    <mxGraphModel dx="2284" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-1" target="c6WAMRV8e6t9MZem6bLq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-2" value="N = length of list" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=11;strokeWidth=2;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-3" target="c6WAMRV8e6t9MZem6bLq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-3" value="N &amp;lt; 2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-2" target="c6WAMRV8e6t9MZem6bLq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-6" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1010" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-7" value="Select last element from the list as a pivot" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-10" target="c6WAMRV8e6t9MZem6bLq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-10" value="List is sorted by ASC" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="910" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#00CC66;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-11" target="c6WAMRV8e6t9MZem6bLq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-11" target="c6WAMRV8e6t9MZem6bLq-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="820" />
+              <mxPoint x="600" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-11" value="Is Sorted?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fillColor=#60a917;strokeColor=#00CC66;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-3" target="c6WAMRV8e6t9MZem6bLq-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="390" />
+              <mxPoint x="720" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-27" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#00CC66;" vertex="1" parent="1">
+          <mxGeometry x="320" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;fontStyle=1;fontColor=#10b904;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-29" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Idea&lt;/h1&gt;&lt;p&gt;We will set the last element of the data as a pivot. Then divide the list like the left will include data that is smaller than the pivot and the right will include greater value. Check whether it is sorted or not. If not repeat the step that sets last element again&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="120" width="235" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-38" value="Place the list[index] to the right if it is greater than pivot&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="700" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-7" target="c6WAMRV8e6t9MZem6bLq-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-43" target="c6WAMRV8e6t9MZem6bLq-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-43" value="Place the list[index] to the left if it is less than or equal to pivot&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="590" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c6WAMRV8e6t9MZem6bLq-38" target="c6WAMRV8e6t9MZem6bLq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6WAMRV8e6t9MZem6bLq-50" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
