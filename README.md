@@ -73,8 +73,17 @@ The repository is organized into sections based on different technologies and co
 - **Security Considerations**: Diagrams and overviews of securing frontend applications when interacting with Java backends.
 - **Tooling and Build Processes**: Overview of frontend build tools and their integration with Java projects.
 
-### 9. Others
-- Git, AWS cloud, Docker, CICD, and Non-Tech skills should be for the software engineer career path
+  
+### 10. AWS cloud
+- **Basic**
+
+  
+### 11. Docker & CICD
+- **Basic**
+
+
+### 12. Others
+- Git and Non-Tech skills should be for the software engineer career path
 - Sharing experiences: Interview, Learning, Coaching...
 
 ## Repository Structure
