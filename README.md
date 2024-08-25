@@ -73,8 +73,8 @@ The repository is organized into sections based on different technologies and co
 - **Tooling and Build Processes**: Overview of frontend build tools and their integration with Java projects.
 
 ### 9. Others
-- Git, AWS cloud, Non-Tech skills should have for software engineer carrer path
-- Sharing experiance: Interview, Learning, Coaching...
+- Git, AWS cloud, Docker, CICD, and Non-Tech skills should be for the software engineer career path
+- Sharing experiences: Interview, Learning, Coaching...
 
 ## Repository Structure
 
